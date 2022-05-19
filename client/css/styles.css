@@ -1,4 +1,11 @@
-
 img {
 	width: 300px;
+}
+h1{
+	text-align: center;
+}
+#main-body{
+	background-color: #e8dbcb;
+	margin-top: 70px;
+	margin-bottom: 50px;
 }
